@@ -1,6 +1,6 @@
 # Praktikum Pemrograman Mobile - Widget Interaktif & Form
 
-Proyek ini dibuat untuk memenuhi Tugas Praktikum Pemrograman Mobile (INF23531) Pertemuan 5[cite: 7, 12]. Proyek ini berisi implementasi widget interaktif Flutter seperti TextField, Jenis Button, Checkbox, Switch, serta Form & Validasi[cite: 1, 7, 11, 12].
+Proyek ini dibuat untuk memenuhi Tugas Praktikum Pemrograman Mobile (INF23531) Pertemuan 5. Proyek ini berisi implementasi widget interaktif Flutter seperti TextField, Jenis Button, Checkbox, Switch, serta Form & Validasi.
 
 ## 👤 Informasi Mahasiswa
 * **Nama:** Apriza Wahyu Setiawan
